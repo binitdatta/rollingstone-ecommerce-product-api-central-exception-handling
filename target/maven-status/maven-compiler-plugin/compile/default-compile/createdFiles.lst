@@ -1,0 +1,16 @@
+com/rollingstone/spring/model/Category.class
+com/rollingstone/exceptions/RestAPIExceptionInfo.class
+com/rollingstone/spring/controller/AbstractController.class
+com/rollingstone/exceptions/HTTP400Exception.class
+com/rollingstone/spring/service/ProductService.class
+com/rollingstone/spring/controller/exception/handler/RollingstoneCentralExceptionHandler.class
+com/rollingstone/events/ProductEvent.class
+com/rollingstone/listeners/ProductEventListener.class
+com/rollingstone/exceptions/HTTP404Exception.class
+com/rollingstone/aspects/RestControllerAspect.class
+com/rollingstone/spring/model/Product.class
+com/rollingstone/spring/service/feign/CategoryFeignClient.class
+com/rollingstone/spring/controller/ProductController.class
+com/rollingstone/spring/service/ProductServiceImpl.class
+com/rollingstone/RollingstoneEcommerceProductApiApplication.class
+com/rollingstone/spring/dao/ProductDaoRepository.class
